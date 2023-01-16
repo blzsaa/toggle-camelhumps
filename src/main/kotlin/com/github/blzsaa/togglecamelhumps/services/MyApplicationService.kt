@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.blzsaa.togglecamelhumps.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.blzsaa.togglecamelhumps.MyBundle
 
 class MyApplicationService {
 
